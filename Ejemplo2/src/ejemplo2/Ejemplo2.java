@@ -19,7 +19,13 @@ public class Ejemplo2 {
     public static void main(String[] args) {
         
         JOptionPane.showMessageDialog(null, "hola mundo");
-        // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Esto es una prueba del uso de un controlador de versiones");
+        
+        
+        
+        
+        
     }
     
 }
