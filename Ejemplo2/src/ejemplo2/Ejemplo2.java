@@ -23,7 +23,7 @@ public class Ejemplo2 {
         JOptionPane.showMessageDialog(null, "Esto es una prueba del uso de un controlador de versiones");
         
         
-        
+        JOptionPane.showMessageDialog(null, "Esto es una prueba del uso de un controlador de versiones 2");
         
         
     }
