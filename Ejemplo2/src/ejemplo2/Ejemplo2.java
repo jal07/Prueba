@@ -25,6 +25,8 @@ public class Ejemplo2 {
         
         JOptionPane.showMessageDialog(null, "Esto es una prueba del uso de un controlador de versiones 2");
         
+        JOptionPane.showMessageDialog(null, "actualizacion 4");
+        
         
     }
     
