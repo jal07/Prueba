@@ -27,6 +27,10 @@ public class Ejemplo2 {
         
         JOptionPane.showMessageDialog(null, "actualizacion 4");
         
+        JOptionPane.showMessageDialog(null, "actualizado desde github.com");
+        
+        
+        
         
     }
     
