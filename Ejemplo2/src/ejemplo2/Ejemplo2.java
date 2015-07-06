@@ -36,6 +36,9 @@ public class Ejemplo2 {
         JOptionPane.showMessageDialog(null, "Actualizacion 5");
         
         
+        JOptionPane.showMessageDialog(null, "Actualizacion 6 desde github.com ");
+        
+        
         
         
         
